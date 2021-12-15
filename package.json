@@ -1,0 +1,26 @@
+{
+  "name": "expressjs-crashcourse",
+  "version": "1.0.0",
+  "description": "Express js crash course, youtube tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "js",
+    "javascript",
+    "server-side",
+    "server"
+  ],
+  "author": "Wiam Nasr - Code Along",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^6.0.2",
+    "moment": "^2.29.1",
+    "uuid": "^8.3.2"
+  }
+}
